@@ -5,7 +5,7 @@ This project is a fully developed database system for an online shop. It covers 
 Project Overview
 ## In this repository:
 
-1.We design and create an ER diagram to structure the data model for the online shop.
+1.We design and create an ER diagram to structure the data model for the online shop.\n
 2.We generate the database based on this ER design, ensuring it captures essential components like customers, orders, products, inventory, and transactions.
 3.We implement the database using sqlite.
 ## ER Diagram
